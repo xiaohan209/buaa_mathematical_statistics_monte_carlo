@@ -1,0 +1,9 @@
+alpha = 0.62
+origin_miu = 30
+origin_sigma = 10
+capacity = 60
+request_num = 1000
+photo_dir = "./photos/"
+sample_capacity = [30, 40, 50, 60, 70, 80, 90, 100]
+monte_num = []
+monte_test_results = []
